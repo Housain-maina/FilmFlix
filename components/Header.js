@@ -24,7 +24,7 @@ export default function Header() {
 
       <Image
         // layout="responsive"
-        className="object-conta"
+        className="object-contain"
         src="https://links.papareact.com/ua6"
         height={100}
         width={200}
