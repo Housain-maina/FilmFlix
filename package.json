@@ -1,5 +1,5 @@
 {
-  "name": "hulu-2.0",
+  "name": "filmflix",
   "private": true,
   "scripts": {
     "dev": "next dev",

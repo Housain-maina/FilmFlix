@@ -13,7 +13,7 @@ const Thumbnail = ({ result }, ref) => {
       <Image
         layout="responsive"
         placeholder="blur"
-        blurDataURL="/hulu-placeholder.png"
+        blurDataURL="/filmflix-placeholder.png"
         src={
           `${BASE_URL}${result.backdrop_path || result.poster_path}` ||
           `${BASE_URL}${result.poster_path}`

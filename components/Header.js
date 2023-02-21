@@ -1,6 +1,5 @@
 import Image from "next/image";
 import HeaderItem from "./HeaderItem";
-import Link from "next/link";
 import {
   HomeIcon,
   BadgeCheckIcon,
@@ -25,7 +24,7 @@ export default function Header() {
       <Image
         // layout="responsive"
         className="object-contain"
-        src="https://links.papareact.com/ua6"
+        src="https://www.datocms-assets.com/89028/1676959578-filmflix-nobg.png"
         height={100}
         width={200}
         alt="logo"
